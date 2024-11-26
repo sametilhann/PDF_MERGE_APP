@@ -1,0 +1,10 @@
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\obj\Debug\PDF_MERGE_APP.csproj.AssemblyReference.cache
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\obj\Debug\PDF_MERGE_APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\obj\Debug\PDF_MERGE_APP.csproj.CoreCompileInputs.cache
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\bin\Debug\PDF_MERGE_APP.exe.config
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\bin\Debug\PDF_MERGE_APP.exe
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\bin\Debug\PDF_MERGE_APP.pdb
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\bin\Debug\itextsharp.dll
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\obj\Debug\PDF_MERGE_APP.csproj.CopyComplete
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\obj\Debug\PDF_MERGE_APP.exe
+C:\Users\egm\source\repos\PDF_MERGE_APP\PDF_MERGE_APP\obj\Debug\PDF_MERGE_APP.pdb
